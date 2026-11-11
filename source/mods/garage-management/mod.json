@@ -1,0 +1,12 @@
+{
+  "id": "garage-management",
+  "kind": "native",
+  "version": "0.1.0",
+  "display_name": "Garage Management",
+  "gameplay": true,
+  "feature_dependencies": [],
+  "play_help": [
+    "Select exact owned vehicles and confirm upgrades by storage identity.",
+    "Implementation build only; gameplay testing is deferred."
+  ]
+}

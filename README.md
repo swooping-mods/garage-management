@@ -1,5 +1,7 @@
 # Garage Management
 
+<img src="media/icon.png" alt="Garage Management icon" width="128" height="128">
+
 Select exact owned vehicles and confirm upgrades by storage identity.
 
 ## Install
